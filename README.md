@@ -5,7 +5,7 @@ What does this app do:-
 - This app is a pet care app where you can monitor your pet where he is going using gps, also you can monitor his health by the app, you can also check out the doctors around and book an appointment too.
 - Diffrent screens for diffrent users like doctor and a user.
 - Doctors can see thier appointments and also add medicines to take for the pet and the owner can see the same.
-- Additional push notification if the pet is suffering from some abnormal problems.
+- Additional push notification if the pet is suffering from some abnormal health problems.
 - Additional push notifications if the pet goes out of a playing feild decided by the owner to bring him back.
 - Product selling and buying page for your pet's health and safety.
 
